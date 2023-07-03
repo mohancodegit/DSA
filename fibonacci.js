@@ -6,4 +6,4 @@ function fibonacci(n) {
   return fib.pop();
 }
 
-console.log(fibonacci(100))
+console.log(fibonacci(100));
