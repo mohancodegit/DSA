@@ -1,4 +1,4 @@
-function factoial(n) {
+function factorial(n) {
   let result = 1;
   for (let i = 2; i <= n; i++) {
     result *= i;
@@ -6,4 +6,4 @@ function factoial(n) {
   return result;
 }
 
-console.log(factoial(0));
+console.log(factorial(0));
